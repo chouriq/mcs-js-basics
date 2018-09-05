@@ -5,7 +5,7 @@ document.body.style.backgroundColor = color;
 
 color = prompt("What color for text do you want?");
 const page = document.querySelector(".page");
-page.style.fontColor = color;
+page.style.color = color;
 
 let name = prompt("Who inspires you?");
 const spanName = document.querySelector("span.name");
