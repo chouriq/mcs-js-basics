@@ -1,0 +1,1 @@
+console.log("Nice seeing you at "+window.location.href);
